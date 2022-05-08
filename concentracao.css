@@ -1,0 +1,64 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 600px;
+    background-image: url("https://img.directindustry.com/pt/images_di/photo-g/39799-13032814.jpg");
+    
+    background-color: #000000;
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  form{
+    text-align: center;
+    color: #ffffff;
+    padding: 15px;
+    top: 65px;
+  }
+  h1 {
+    text-align: center;
+    color: #11898f;
+    padding: 15px;
+    top: 5px;
+  }
+  h9{
+    text-align: center;
+    color: #000000;
+    width: 300px;
+    padding: 10px;
+    top: 2px;
+    
+  }
+  h2 {
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+  }
+  h3 {
+    text-align: center;
+    background: transparent;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+  }
+  h4 {
+    color: #ffffff;
+  }
+  .resultado {
+    color:#ffffff ;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .page-logo {
+    width: 300px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+  }
+  .botao01 {
+    color: #6495ED;
+    text-decoration: none;
+  }
+  
